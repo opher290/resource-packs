@@ -8,11 +8,11 @@ No sprite is redrawn. The 2005-specific art keeps its original shapes, shading a
 
 ## Screenshots
 
-![Skills tab in Resizeable mode](screenshots/skills.webp)
+![Skills tab in Resizeable mode](https://raw.githubusercontent.com/opher290/gruvbox-2005-resource-pack/main/screenshots/skills.webp)
 
-![Settings and chatbox in Resizeable mode](screenshots/settings.webp)
+![Settings and chatbox in Resizeable mode](https://raw.githubusercontent.com/opher290/gruvbox-2005-resource-pack/main/screenshots/settings.webp)
 
-![Bank in Resizeable mode](screenshots/bank.webp)
+![Bank in Resizeable mode](https://raw.githubusercontent.com/opher290/gruvbox-2005-resource-pack/main/screenshots/bank.webp)
 
 Screenshots are taken in RuneLite at a game size of 1376x905 with Stretched Mode set to 70%.
 ## Installation
@@ -91,7 +91,7 @@ Clan broadcasts, group ironman chat and broadcasts, and moderator chat have no c
 
 If you prefer your own chat colours, untick **Allow chat colors to be changed** in the Resource packs plugin settings (under *Configurable Overrides*):
 
-![The Allow chat colors to be changed setting, unticked](screenshots/allow-chat-colors.png)
+![The Allow chat colors to be changed setting, unticked](https://raw.githubusercontent.com/opher290/gruvbox-2005-resource-pack/main/screenshots/allow-chat-colors.png)
 
 ## What changes
 
